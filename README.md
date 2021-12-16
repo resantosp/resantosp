@@ -18,7 +18,7 @@ Sou bióloga, em **transição de carreira**, buscando unir as minhas paixões e
 <br/><br/> 
 
 🌊 Mergulhando em Tecnologia | Obrigada pela visita e volte sempre!
-
+<br/><br/> 
 <div>
 <a href="https://github.com/resantosp">
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=resantosp&layout=compact&langs_count=7&theme=dracula"/>
