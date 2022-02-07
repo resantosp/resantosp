@@ -1,6 +1,6 @@
 ## Olá! Meu nome é Renata Santos! 
 
-Sou bióloga, em **transição de carreira**, unindo minhas paixões por Ciência e Tecnologia em busca de fazer deste um mundo melhor para que possamos viver em harmonia uns com os outros - **e com o meio ambiente**.
+Sou bióloga, em **transição de carreira**, unindo minhas paixões por Ciência e Tecnologia em busca de fazer deste um mundo melhor para que possamos viver em harmonia **uns com os outros** - **e com o meio ambiente**.
 
 ### Cursando:  
 :woman_technologist: Graduação (Tecnólogo) em **Análise e Desenvolvimento de Sistemas** (conclusão: dez/2023)  
